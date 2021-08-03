@@ -1,0 +1,31 @@
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+padding-bottom: 100;
+padding-top: 50;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.screen_btns
+{
+    padding-bottom: 25;
+}
+
+.btns
+{
+    background-color: white;
+    border-radius: 50;
+}
